@@ -8,6 +8,8 @@ BUNDLE_DIR=/tmp/bundle-dir
 cp -R /app $COPIED_APP_PATH
 cd $COPIED_APP_PATH
 
+echo "running"
+
 ls
 cd app
 
